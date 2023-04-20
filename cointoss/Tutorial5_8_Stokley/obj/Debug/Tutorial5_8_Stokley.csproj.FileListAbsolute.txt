@@ -1,0 +1,21 @@
+C:\Users\roust\source\repos\Tutorial5_8_Stokley\Tutorial5_8_Stokley\bin\Debug\Tutorial5_8_Stokley.exe.config
+C:\Users\roust\source\repos\Tutorial5_8_Stokley\Tutorial5_8_Stokley\bin\Debug\Tutorial5_8_Stokley.exe
+C:\Users\roust\source\repos\Tutorial5_8_Stokley\Tutorial5_8_Stokley\bin\Debug\Tutorial5_8_Stokley.pdb
+C:\Users\roust\source\repos\Tutorial5_8_Stokley\Tutorial5_8_Stokley\obj\Debug\Tutorial5_8_Stokley.csproj.AssemblyReference.cache
+C:\Users\roust\source\repos\Tutorial5_8_Stokley\Tutorial5_8_Stokley\obj\Debug\Tutorial5_8_Stokley.Form1.resources
+C:\Users\roust\source\repos\Tutorial5_8_Stokley\Tutorial5_8_Stokley\obj\Debug\Tutorial5_8_Stokley.Properties.Resources.resources
+C:\Users\roust\source\repos\Tutorial5_8_Stokley\Tutorial5_8_Stokley\obj\Debug\Tutorial5_8_Stokley.csproj.GenerateResource.cache
+C:\Users\roust\source\repos\Tutorial5_8_Stokley\Tutorial5_8_Stokley\obj\Debug\Tutorial5_8_Stokley.csproj.CoreCompileInputs.cache
+C:\Users\roust\source\repos\Tutorial5_8_Stokley\Tutorial5_8_Stokley\obj\Debug\Tutorial5_8_Stokley.exe
+C:\Users\roust\source\repos\Tutorial5_8_Stokley\Tutorial5_8_Stokley\obj\Debug\Tutorial5_8_Stokley.pdb
+C:\Users\roust\OneDrive\Desktop\Software Dev\New folder (2)\Tutorial5_8_Stokley\Tutorial5_8_Stokley\bin\Debug\Tutorial5_8_Stokley.exe.config
+C:\Users\roust\OneDrive\Desktop\Software Dev\New folder (2)\Tutorial5_8_Stokley\Tutorial5_8_Stokley\bin\Debug\Tutorial5_8_Stokley.exe
+C:\Users\roust\OneDrive\Desktop\Software Dev\New folder (2)\Tutorial5_8_Stokley\Tutorial5_8_Stokley\bin\Debug\Tutorial5_8_Stokley.pdb
+C:\Users\roust\OneDrive\Desktop\Software Dev\New folder (2)\Tutorial5_8_Stokley\Tutorial5_8_Stokley\obj\Debug\Tutorial5_8_Stokley.csproj.AssemblyReference.cache
+C:\Users\roust\OneDrive\Desktop\Software Dev\New folder (2)\Tutorial5_8_Stokley\Tutorial5_8_Stokley\obj\Debug\Tutorial5_8_Stokley.csproj.SuggestedBindingRedirects.cache
+C:\Users\roust\OneDrive\Desktop\Software Dev\New folder (2)\Tutorial5_8_Stokley\Tutorial5_8_Stokley\obj\Debug\Tutorial5_8_Stokley.Form1.resources
+C:\Users\roust\OneDrive\Desktop\Software Dev\New folder (2)\Tutorial5_8_Stokley\Tutorial5_8_Stokley\obj\Debug\Tutorial5_8_Stokley.Properties.Resources.resources
+C:\Users\roust\OneDrive\Desktop\Software Dev\New folder (2)\Tutorial5_8_Stokley\Tutorial5_8_Stokley\obj\Debug\Tutorial5_8_Stokley.csproj.GenerateResource.cache
+C:\Users\roust\OneDrive\Desktop\Software Dev\New folder (2)\Tutorial5_8_Stokley\Tutorial5_8_Stokley\obj\Debug\Tutorial5_8_Stokley.csproj.CoreCompileInputs.cache
+C:\Users\roust\OneDrive\Desktop\Software Dev\New folder (2)\Tutorial5_8_Stokley\Tutorial5_8_Stokley\obj\Debug\Tutorial5_8_Stokley.exe
+C:\Users\roust\OneDrive\Desktop\Software Dev\New folder (2)\Tutorial5_8_Stokley\Tutorial5_8_Stokley\obj\Debug\Tutorial5_8_Stokley.pdb

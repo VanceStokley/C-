@@ -1,0 +1,10 @@
+C:\Users\roust\source\repos\MP1_3Stokley\MP1_3Stokley\obj\Debug\MP1_3Stokley.csproj.AssemblyReference.cache
+C:\Users\roust\source\repos\MP1_3Stokley\MP1_3Stokley\obj\Debug\MP1_3Stokley.Form1.resources
+C:\Users\roust\source\repos\MP1_3Stokley\MP1_3Stokley\obj\Debug\MP1_3Stokley.Properties.Resources.resources
+C:\Users\roust\source\repos\MP1_3Stokley\MP1_3Stokley\obj\Debug\MP1_3Stokley.csproj.GenerateResource.cache
+C:\Users\roust\source\repos\MP1_3Stokley\MP1_3Stokley\obj\Debug\MP1_3Stokley.csproj.CoreCompileInputs.cache
+C:\Users\roust\source\repos\MP1_3Stokley\MP1_3Stokley\bin\Debug\MP1_3Stokley.exe.config
+C:\Users\roust\source\repos\MP1_3Stokley\MP1_3Stokley\bin\Debug\MP1_3Stokley.exe
+C:\Users\roust\source\repos\MP1_3Stokley\MP1_3Stokley\bin\Debug\MP1_3Stokley.pdb
+C:\Users\roust\source\repos\MP1_3Stokley\MP1_3Stokley\obj\Debug\MP1_3Stokley.exe
+C:\Users\roust\source\repos\MP1_3Stokley\MP1_3Stokley\obj\Debug\MP1_3Stokley.pdb

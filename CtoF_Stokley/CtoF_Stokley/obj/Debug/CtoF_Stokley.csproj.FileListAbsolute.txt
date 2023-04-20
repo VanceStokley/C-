@@ -1,0 +1,10 @@
+C:\Users\roust\source\repos\CtoF_Stokley\CtoF_Stokley\bin\Debug\CtoF_Stokley.exe.config
+C:\Users\roust\source\repos\CtoF_Stokley\CtoF_Stokley\bin\Debug\CtoF_Stokley.exe
+C:\Users\roust\source\repos\CtoF_Stokley\CtoF_Stokley\bin\Debug\CtoF_Stokley.pdb
+C:\Users\roust\source\repos\CtoF_Stokley\CtoF_Stokley\obj\Debug\CtoF_Stokley.csproj.AssemblyReference.cache
+C:\Users\roust\source\repos\CtoF_Stokley\CtoF_Stokley\obj\Debug\CtoF_Stokley.Form1.resources
+C:\Users\roust\source\repos\CtoF_Stokley\CtoF_Stokley\obj\Debug\CtoF_Stokley.Properties.Resources.resources
+C:\Users\roust\source\repos\CtoF_Stokley\CtoF_Stokley\obj\Debug\CtoF_Stokley.csproj.GenerateResource.cache
+C:\Users\roust\source\repos\CtoF_Stokley\CtoF_Stokley\obj\Debug\CtoF_Stokley.csproj.CoreCompileInputs.cache
+C:\Users\roust\source\repos\CtoF_Stokley\CtoF_Stokley\obj\Debug\CtoF_Stokley.exe
+C:\Users\roust\source\repos\CtoF_Stokley\CtoF_Stokley\obj\Debug\CtoF_Stokley.pdb
